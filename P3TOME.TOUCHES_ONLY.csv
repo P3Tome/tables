@@ -1,0 +1,9 @@
+﻿ProductID,Get,Scan,AddCTSD,Recon,DrawUp,InjectOut,Weigh,AddLine,LabelAndBag,Freq
+SYR-H,Yes,Yes,No,No,Yes,No,Yes,No,Yes,1
+IV-H,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,1
+SYR-H,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,1
+IV-H,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,1
+SYR-H,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1
+IV-H,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+SYR-H,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+IV-H,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
